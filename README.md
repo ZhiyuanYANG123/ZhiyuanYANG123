@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @ZhiyuanYANG123
-- 👀 I’m interested in TimeSeiresForecasting with Deep Learning
-- 🌱 I’m currently learning TimeLLM, TimeGPT...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Deep Learning
+- 🌱 I’m currently learning Conformal Learning, Reinforcement Learning, Post Training...
+- 💞️ I’m looking to collaborate on TSF
 - 📫 How to reach me: hayangzy@163.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he
+- ⚡ Fun fact: I can solve a 3x3 Rubik's Cube in 30 seconds.
 
-<!---
-ZhiyuanYANG123/ZhiyuanYANG123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
