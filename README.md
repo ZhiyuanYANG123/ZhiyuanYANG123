@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhiyuanYANG123
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Conformal Learning, Reinforcement Learning, Post Training...
+- 👀 I’m interested in Deep Learning, Sequence Learning
+- 🌱 I’m currently learning LTSF, Conformal Learning, Reinforcement Learning, Post Training...
 - 💞️ I’m looking to collaborate on TSF
 - 📫 How to reach me: hayangzy@163.com
 - 😄 Pronouns: he
