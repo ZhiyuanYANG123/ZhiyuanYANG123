@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZhiyuanYANG123
+- 👋 Hi, I’m @ZhiyuanYANG
 - 👀 I’m interested in Deep Learning, Sequence Learning
 - 🌱 I’m currently learning LTSF, Conformal Learning, Reinforcement Learning, Post Training...
 - 💞️ I’m looking to collaborate on TSF
